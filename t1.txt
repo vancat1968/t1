@@ -136,11 +136,13 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+Linux Oracle
+
+
 # Windows Installer files
-*.cab
-*.msi
-*.msm
 *.msp
+fanxinmi
+
 
 # Windows shortcuts
 *.lnk
